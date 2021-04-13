@@ -1,0 +1,176 @@
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\appsettings.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.StaticWebAssets.xml
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.exe
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.deps.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.runtimeconfig.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.runtimeconfig.dev.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\ref\Blazor1.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.pdb
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.Views.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.Views.pdb
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csprojAssemblyReference.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorComponent.input.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorComponent.output.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Blazor1.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.TagHelpers.input.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.TagHelpers.output.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorCoreGenerate.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorAssemblyInfo.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\staticwebassets\Blazor1.StaticWebAssets.Manifest.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\staticwebassets\Blazor1.StaticWebAssets.xml
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\bundle\Blazor1.styles.css
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\projectbundle\Blazor1.bundle.scp.css
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorTargetAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorTargetAssemblyInfo.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.Views.pdb
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\ref\Blazor1.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.pdb
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.genruntimeconfig.cache
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csproj.CopyComplete
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\C1.Blazor.Chart.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\libman.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Dynamic.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Scripting.Metadata.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Scripting.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.Modules.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.SQLite.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.Wpf.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\ChartJsLineChart.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\ChartJsLineChart.razor.g.cs
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\ChartJs.Blazor.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\ChartJSCore.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Plotly.Blazor.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\Properties\particles.json
+C:\Users\user-pc\source\repos\Blazor1\Blazor1\bin\Debug\net5.0\package.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\appsettings.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\libman.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\package.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Properties\particles.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.StaticWebAssets.xml
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.exe
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.deps.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.runtimeconfig.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.runtimeconfig.dev.json
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\ref\Blazor1.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.pdb
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.Views.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Blazor1.Views.pdb
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\C1.Blazor.Chart.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\ChartJs.Blazor.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\ChartJSCore.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Dynamic.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Scripting.Metadata.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Scripting.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.Modules.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.SQLite.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.Wpf.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\IronPython.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\Plotly.Blazor.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csprojAssemblyReference.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.AssemblyInfoInputs.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.AssemblyInfo.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csproj.CoreCompileInputs.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorComponent.input.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\ChartJsLineChart.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorComponent.output.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\RazorDeclaration\Blazor1.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.TagHelpers.input.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.TagHelpers.output.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorCoreGenerate.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\ChartJsLineChart.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorAssemblyInfo.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorAssemblyInfo.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\staticwebassets\Blazor1.StaticWebAssets.Manifest.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\staticwebassets\Blazor1.StaticWebAssets.xml
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\bundle\Blazor1.styles.css
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\projectbundle\Blazor1.bundle.scp.css
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorTargetAssemblyInfo.cache
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.RazorTargetAssemblyInfo.cs
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.Views.pdb
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.csproj.CopyComplete
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\ref\Blazor1.dll
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.pdb
+C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\Blazor1.genruntimeconfig.cache

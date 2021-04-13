@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\awake\\OneDrive\\Desktop\\the Boekel Ecovillage\\Blazor1\\Blazor1\\Blazor1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\awake\\OneDrive\\Desktop\\the Boekel Ecovillage\\Blazor1\\Blazor1\\Blazor1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\awake\\OneDrive\\Desktop\\the Boekel Ecovillage\\Blazor1\\Blazor1\\Blazor1.csproj",
+        "projectName": "Blazor1",
+        "projectPath": "C:\\Users\\awake\\OneDrive\\Desktop\\the Boekel Ecovillage\\Blazor1\\Blazor1\\Blazor1.csproj",
+        "packagesPath": "C:\\Users\\awake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\awake\\OneDrive\\Desktop\\the Boekel Ecovillage\\Blazor1\\Blazor1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\awake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "C1.Blazor.Chart": {
+              "target": "Package",
+              "version": "[3.1.20203.35, )"
+            },
+            "Chart.js": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "ChartJSCore": {
+              "target": "Package",
+              "version": "[1.5.8, )"
+            },
+            "ChartJs.Blazor": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "IronPython": {
+              "target": "Package",
+              "version": "[2.7.11, )"
+            },
+            "Plotly": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Plotly.Blazor": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

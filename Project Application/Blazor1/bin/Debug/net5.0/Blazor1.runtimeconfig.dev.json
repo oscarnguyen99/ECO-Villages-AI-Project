@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\awake\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\awake\\.nuget\\packages"
+    ]
+  }
+}

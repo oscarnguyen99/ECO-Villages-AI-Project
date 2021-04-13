@@ -1,0 +1,75 @@
+﻿@page "/"
+@namespace Blazor1.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   
+    <base href="~/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+     <title id="title">Boekel EcoDorp</title>
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="Blazor1.styles.css" rel="stylesheet" />
+    <script src="~/_content/C1.Blazor.Chart/scripts.js"></script>
+    <script src="plotly.min.js"></script>
+</head>
+<body>
+    <component type="typeof(App)" render-mode="ServerPrerendered" />
+
+    <div id="blazor-error-ui" style="overflow:hidden;">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+        
+
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+<
+  
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  
+    <script>
+  console.clear;
+  console.log("This site was made by Juan Jacques Ludick As a assignment for BC campus International project , this site may contain some script tags to external animation lirbaries but as i have just stated that those libraries are only there to enable to create animations, I still created these animations myself, the only pre existing animation that is part of the library that i used is the particle effects and the animations have nothing to do with the original goal of the assignment as that i did myself in javascript. I say again the animations are only there to make the page look a little better and more functional.");
+  
+  </script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+ 
+    <script src="_framework/blazor.server.js"></script>
+    
+	
+<!--===============================================================================================-->	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/tilt/tilt.jquery.min.js"></script>
+	<script >
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+	</script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+
+
+
+</body>
+</html>

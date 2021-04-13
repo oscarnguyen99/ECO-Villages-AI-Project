@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\awake\OneDrive\Desktop\the Boekel Ecovillage\Blazor1\Blazor1\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/C1.Blazor.Chart" Path="C:\Users\awake\.nuget\packages\c1.blazor.chart\3.1.20203.35\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/ChartJs.Blazor" Path="C:\Users\awake\.nuget\packages\chartjs.blazor\1.1.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Plotly.Blazor" Path="C:\Users\awake\.nuget\packages\plotly.blazor\2.0.0\build\..\staticwebassets\" />
+</StaticWebAssets>
