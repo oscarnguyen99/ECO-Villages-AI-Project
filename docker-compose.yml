@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    build:
+      context: "./Project Application/Blazor1/"
+      dockerfile: Dockerfile.Blazor.Debug
+    ports:
+     - "5200:80"
