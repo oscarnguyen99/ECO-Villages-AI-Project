@@ -1,0 +1,177 @@
+﻿@page "/fetchdata"
+
+@using Blazor1.Data
+
+@using ChartJs
+@using System.Collections;
+
+
+
+
+
+@inject WeatherForecastService ForecastService
+@inject IJSRuntime JSRuntime
+
+<nav id="nv">
+    <ul id="NavBack">
+        <div id="shadowNav">
+        <li class="Navi">
+            
+        <a @onclick="ShowAlert" class="Navi">Weather</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">Co2</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">Methane</a>
+        </li>
+
+       
+        <li class="Navi">
+             <img src="../images/noun_humidity_1512650.svg" height="20px" width="20px"/>
+        <a @onclick="ShowAlert" class="Navi">Relative Humidity</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">PM2.5</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">TVOC</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">Air Pressure</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">CO</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">Ozone</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">NO2</a>
+        </li>
+        <li class="Navi">
+        <a @onclick="ShowAlert" class="Navi">Virus Index</a>
+        </li>
+       </div>
+    </ul>
+</nav>
+ 
+
+
+<img src="https://img.icons8.com/cotton/64/000000/menu.png" style="position:relative ; left:0 ; visibility:hidden"/>
+
+<h1>Weather forecast</h1>
+
+
+<p>This component demonstrates fetching data from a service.</p>
+@*<button @onclick="ShowAlert">Click ME please</button>*@
+
+
+ <select name="graphType" id="graphtype" style="width:50%">
+    <option value="bar">bar</option>
+    <option value="line">line</option>
+    <option value="pie">pie</option>
+    <option value="radar">radar</option>
+      <option value="bubble">bubble</option>
+  </select>
+
+<div class="chart-container" style="height:80%; width: 80%">
+    <canvas id="testchart" @ref=PopChart readonly>
+        
+    </canvas>
+
+    <span id="txt"></span>
+</div>
+
+
+
+@code
+{
+    public ArrayList dt = new ArrayList();
+    public ArrayList fdates = new ArrayList();
+}
+
+
+
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+
+     ChartJsLineChart lineChart = new ChartJsLineChart();
+    <table class="table"  @onloadeddata="ShowAlert">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp. (C)</th>
+                <th>Temp. (F)</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+              
+
+                <tr>
+                    <td>@forecast.Date.ToShortDateString()</td>
+                    <td>@forecast.TemperatureC</td>
+                    <td>@forecast.TemperatureF</td>
+                    <td>@forecast.Summary</td>
+                </tr>
+                 dt.Add(@forecast.TemperatureC);
+                fdates.Add(@forecast.Date.ToShortDateString());
+
+
+            }
+
+           
+        </tbody>
+        
+    </table>
+ 
+
+
+}   
+
+@code {
+    private WeatherForecast[] forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+
+
+
+    }
+
+
+}
+
+@*The Section of the code for graph populations*@
+
+
+
+@code
+{
+    ElementReference PopChart;
+
+    async Task ShowAlert()
+    {
+          
+
+        await JSRuntime.InvokeVoidAsync(identifier: "createAlert");
+        await JSRuntime.InvokeVoidAsync(identifier: "SetElement","txt");
+        await JSRuntime.InvokeVoidAsync(identifier: "GenerateBars", dt,fdates);
+        dt.Clear();
+        fdates.Clear();
+
+          
+           
+
+       // await JSRuntime.InvokeVoidAsync(identifier: "Pop",PopChart);
+    }
+}

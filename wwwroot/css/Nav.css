@@ -1,0 +1,45 @@
+﻿body {
+
+}
+
+#App {
+    background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
+    overflow: hidden;
+}
+
+.Navi {
+    top: 0px;
+    display: inline;
+    padding: 2px;
+    border: 1px solid black;
+    z-index: 3;
+    height: 100%;
+    width: 100%;
+}
+
+#NavBack {
+    border: 2px solid black;
+    background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
+    top:100px;
+    height:100%;
+    width:100%;
+}
+
+#shadowNav {
+    
+}
+
+    .Navi:hover 
+    {
+        color:aqua;
+    }
+.top-row px-4 
+{
+    z-index:-1;
+
+
+}
+.nv 
+{
+    border:5px solid black;
+}
