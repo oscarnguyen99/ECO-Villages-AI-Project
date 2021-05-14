@@ -18,3 +18,16 @@ services:
     ports:
      # HTTP port
      - "5200:80"
+  #Database support within the compose stack
+  db:
+    image: mvertes/alpine-mongo
+    container_name: ecov_database
+    volumes: 
+      - 'ecov_db:/data/db'
+    #ports:
+      # Uncomment to open this port to the host for database management
+      #- '27017:27017'
+
+#Volumes
+volumes:
+  ecov_db:
