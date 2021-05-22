@@ -70,3 +70,10 @@ function setChartNull() {
     
     
 }
+
+
+function LogList(PolutionList)
+{
+    console.log(PolutionList);
+
+}

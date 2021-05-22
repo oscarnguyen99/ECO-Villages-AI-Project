@@ -9,8 +9,13 @@
 
 
 
+
+
 @inject WeatherForecastService ForecastService
 @inject IJSRuntime JSRuntime
+@inject HttpClient http;
+
+<body id="bd">
 
 <nav id="nv">
     <ul id="NavBack">
@@ -58,9 +63,9 @@
  
 
 
-<img src="https://img.icons8.com/cotton/64/000000/menu.png" style="position:relative ; left:0 ; visibility:hidden"/>
-
-<h1>Weather forecast</h1>
+@*<img src="https://img.icons8.com/cotton/64/000000/menu.png" style="position:relative ; left:0 ; visibility:hidden"/>
+*@
+<h1 id="Pdata">Polution Data</h1>
 
 
 <p>This component demonstrates fetching data from a service.</p>
@@ -89,6 +94,16 @@
 {
     public ArrayList dt = new ArrayList();
     public ArrayList fdates = new ArrayList();
+     public ArrayList PolutionData = new ArrayList();
+
+
+    private async Task GetPolutionData()
+    {
+        PolutionData = await http.GetJsonAsync<ArrayList>("http://api.openweathermap.org/data/2.5/air_pollution?lat={51.60333}&lon={5.675}&appid={b6a4f99930730cf3d3396fac57044c23}");
+    } 
+
+
+
 }
 
 
@@ -161,7 +176,8 @@ else
 
     async Task ShowAlert()
     {
-          
+
+        await JSRuntime.InvokeVoidAsync(identifier: "LogList", PolutionData);
 
         await JSRuntime.InvokeVoidAsync(identifier: "createAlert");
         await JSRuntime.InvokeVoidAsync(identifier: "SetElement","txt");
@@ -175,3 +191,4 @@ else
        // await JSRuntime.InvokeVoidAsync(identifier: "Pop",PopChart);
     }
 }
+</body>

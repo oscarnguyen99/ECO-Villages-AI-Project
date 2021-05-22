@@ -14,6 +14,9 @@ html, body {
     overflow: hidden;
 }
 
+
+
+
 #App {
     background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
     overflow: hidden;
@@ -118,7 +121,7 @@ a, .btn-link {
 .chart {
     width: 100%;
     height: 320px;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid #e4e4e4;
     /*     background: linear-gradient(to left, #3e6caa,#805ff4,#1a21b7);*/
     align-items: center;
@@ -199,8 +202,116 @@ h1 {
     }
 }
 
+@media-phone screen and (max-width: 1024px) {
+    #App {
+        flex-direction: column;
+    }
+
+    .chart {
+        flex-direction: column;
+    }
+
+    .Navi {
+        flex-direction: column;
+    }
+
+    .wrap-login100 {
+        flex-direction: column;
+        text-align:center;
+        margin-top:5vh;
+        overflow:auto;
+    }
+}
+
+
+@media-desktop screen and (max-width: 1024px) {
+    #App {
+        flex-direction: column;
+    }
+
+    .chart {
+        flex-direction: column;
+    }
+
+    .Navi {
+        flex-direction: column;
+    }
+
+    .wrap-login100 {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 5vh;
+        overflow: auto;
+    }
+
+    .input100 {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 5vh;
+        overflow: auto;
+        width:200px;
+    }
+}
+
+
+@media-tablet screen and (max-width: 1024px) {
+    #App {
+        flex-direction: column;
+    }
+
+    .chart {
+        flex-direction: column;
+    }
+
+    .Navi {
+        flex-direction: column;
+    }
+
+    .wrap-login100 {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    #App {
+        flex-direction: column;
+    }
+
+    .chart {
+        flex-direction: column;
+        height:100vh;
+        align-self:center;
+        align-content:center;
+        text-align:center;
+
+
+    }
+    .table {
+        flex-direction: column;
+        text-align: center;
+        font-size:18px;
+    }
 
 
 
+    .Navi {
+        flex-direction: column;
+    }
+
+    .wrap-login100 {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 5vh;
+        overflow: auto;
+    }
+
+    .input100 {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 5vh;
+        overflow: auto;
+        width: 200px;
+    }
+}
 
 

@@ -2,19 +2,27 @@
 
 }
 
+#bd 
+{
+    background: linear-gradient(to right,#808080,#271b75);
+    -webkit-background-clip : text;
+    -webkit-text-fill-color:black;
+}
+
 #App {
     background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
     overflow: hidden;
 }
 
 .Navi {
-    top: 0px;
+    top: 100%;
     display: inline;
     padding: 2px;
     border: 1px solid black;
     z-index: 3;
     height: 100%;
     width: 100%;
+    justify-content: space-around;
 }
 
 #NavBack {
@@ -31,7 +39,8 @@
 
     .Navi:hover 
     {
-        color:aqua;
+        color:lightslategrey;
+        cursor:grabbing;
     }
 .top-row px-4 
 {
@@ -42,4 +51,16 @@
 .nv 
 {
     border:5px solid black;
+    left:0;
+
+
 }
+
+#Pdata {
+    top: 50vh;
+    background: linear-gradient(to right,#808080,#271b75);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:dimgrey;
+    width: 100%;
+}
+
