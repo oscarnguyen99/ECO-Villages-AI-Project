@@ -2,7 +2,10 @@
 @model Blazor1.Pages.RegisterModel
 @{
 }
-
+@using System.Data.SqlClient;
+@using Blazor1.Pages
+@using Microsoft.JSInterop
+@inject IJSRuntime JSRuntime
 
   <head>
         <meta charset="utf-8">
@@ -71,8 +74,15 @@
         
           
         </fieldset>
-        <button type="submit" onclick="@Page().Page">Sign Up</button>
+
+        <button type="submit" onclick="">Sign Up</button>
       </form>
       
     </body>
 </html>
+
+
+@{
+   
+    Database_Handler.OpenConn();
+}

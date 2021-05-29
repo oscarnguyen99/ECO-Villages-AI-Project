@@ -1,17 +1,20 @@
 ﻿body {
-
+    background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: black;
 }
 
-#bd 
-{
-    background: linear-gradient(to right,#808080,#271b75);
-    -webkit-background-clip : text;
-    -webkit-text-fill-color:black;
+#bd {
+    background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: black;
+    overflow:visible;
+
 }
 
 #App {
     background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
-    overflow: hidden;
+    overflow: visible;
 }
 
 .Navi {
@@ -31,6 +34,7 @@
     top:100px;
     height:100%;
     width:100%;
+   
 }
 
 #shadowNav {

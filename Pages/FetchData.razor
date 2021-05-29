@@ -22,7 +22,7 @@
         <div id="shadowNav">
         <li class="Navi">
             
-        <a @onclick="ShowAlert" class="Navi">Weather</a>
+        <a @onclick="DisplayCurrentData" class="Navi">Weather</a>
         </li>
         <li class="Navi">
         <a @onclick="ShowAlert" class="Navi">Co2</a>
@@ -68,7 +68,7 @@
 <h1 id="Pdata">Polution Data</h1>
 
 
-<p>This component demonstrates fetching data from a service.</p>
+<p id ="ftxt" >This component demonstrates fetching data from a service.</p>
 @*<button @onclick="ShowAlert">Click ME please</button>*@
 
 
@@ -80,7 +80,7 @@
       <option value="bubble">bubble</option>
   </select>
 
-<div class="chart-container" style="height:80%; width: 80%">
+<div class="chart-container" style="height:80%; width: 80%" id="chCon">
     <canvas id="testchart" @ref=PopChart readonly>
         
     </canvas>
@@ -94,13 +94,7 @@
 {
         public ArrayList dt = new ArrayList();
     public ArrayList fdates = new ArrayList();
-     public Object PolutionData = new Object();
-        public string APICALL = "http://api.openweathermap.org/data/2.5/air_pollution?lat={51.60333}&lon={5.675}&appid={b6a4f99930730cf3d3396fac57044c23}";
-
-    private async Task GetPolutionData()
-    {
-        PolutionData = await http.GetJsonAsync<Object>("https://api.weatherbit.io/v2.0/current/airquality?lat=35.7721&lon=-78.63861&key=0a793836894f4ed79a7548da4a58d760");
-    } 
+    
 
 
 
@@ -173,14 +167,26 @@ else
 @code
 {
     ElementReference PopChart;
-
-    async Task ShowAlert()
+     public Object PolutionData = new Object();
+        public string APICALL = "https://api.weatherbit.io/v2.0/current/airquality?lat=51.60333&lon=5.675&key=0a793836894f4ed79a7548da4a58d760";
+@*
+    private async Task GetPolutionData()
     {
+        PolutionData = await http.GetJsonAsync<Object>("https://api.weatherbit.io/v2.0/current/airquality?lat=35.7721&lon=-78.63861&key=0a793836894f4ed79a7548da4a58d760");
+    } 
+*@
+
+        async Task ShowAlert()
+    // 51. 36 11.99
+    {
+
+          PolutionData = await http.GetJsonAsync<Object>(APICALL);
 
         await JSRuntime.InvokeVoidAsync(identifier: "LogList", PolutionData);
 
         await JSRuntime.InvokeVoidAsync(identifier: "createAlert");
         await JSRuntime.InvokeVoidAsync(identifier: "SetElement","txt");
+       //     await JSRuntime.InvokeVoidAsync(identifier: "setChartNull");
         await JSRuntime.InvokeVoidAsync(identifier: "GenerateBars", dt,fdates);
         dt.Clear();
         fdates.Clear();
@@ -190,5 +196,16 @@ else
 
        // await JSRuntime.InvokeVoidAsync(identifier: "Pop",PopChart);
     }
+
+        async Task DisplayCurrentData()
+        {
+             PolutionData = await http.GetJsonAsync<Object>("https://api.weatherbit.io/v2.0/current/airquality?lat=51.60333&lon=5.675&key=0a793836894f4ed79a7548da4a58d760");
+            await JSRuntime.InvokeVoidAsync(identifier:"DisplayCurrentData",PolutionData);
+                dt.Clear();
+        fdates.Clear();
+            PolutionData = null;
+        }
+
+
 }
 </body>

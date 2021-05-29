@@ -2,7 +2,7 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .sidebar[b-bi0p3c740v] {
@@ -19,7 +19,7 @@ html, body {
 
 #App {
     background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
-    overflow: hidden;
+    overflow: visible;
 }
 
 
@@ -164,6 +164,7 @@ body {
     right: -50%;
     top: 0;
     z-index: -1;
+   
 }
 
 .bg2 {

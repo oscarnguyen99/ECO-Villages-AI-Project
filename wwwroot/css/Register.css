@@ -15,9 +15,7 @@ form {
     padding: 10px 20px;
     background: #f4f7f8;
     border-radius: 8px;
-    background: linear-gradient(to right,#5fcf80,#3ac162);
-   
-
+    background: linear-gradient(to left, #5ae0e9,#62e0c1,#76e19d );
 }
 
 h1 {
@@ -109,6 +107,7 @@ label {
     text-align: center;
     text-shadow: 0 1px 0 rgba(255,255,255,0.2);
     border-radius: 100%;
+    
 }
 
 #Regfrm {
