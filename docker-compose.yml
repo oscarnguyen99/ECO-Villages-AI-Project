@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  # Blazor frontend application
+  blazor:
+    build:
+      context: "./Project Application/Blazor1/"
+      dockerfile: Dockerfile.Blazor.Debug
+    container_name: ecov_blazor
+  # NGINX webhost as reverse proxy for Blazor app and backend API
+  nginx:
+    image: nginx:alpine
+    container_name: ecov_nginx
+    volumes:
+       #Main config file
+       - './docker/nginx/reverse_proxy.conf:/etc/nginx/conf.d/default.conf'
+       - './docker/nginx/proxyheaders.conf:/etc/nginx/snippets/proxy.conf'
+    ports:
+     # HTTP port
+     - "5200:80"
+  #Database support within the compose stack
+  db:
+    image: mvertes/alpine-mongo
+    container_name: ecov_database
+    volumes: 
+      - 'ecov_db:/data/db'
+    #ports:
+      # Uncomment to open this port to the host for database management
+      #- '27017:27017'
+
+#Volumes
+volumes:
+  ecov_db:
